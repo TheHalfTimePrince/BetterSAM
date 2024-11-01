@@ -53,11 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Check out our [Issues](link-to-issues) page for tasks you can help with
 - Read our [Documentation](link-to-docs) to learn more
 
-## Contact
-- Project Lead: [Your Name]
-- Email: [Your Email]
-- Twitter: [@handle]
 
-
-- build with docker build -t oec-server .
--run with docker run -p 8080:8080 oec-server
+<!-- -build with docker build -t oec-server .
+-run with docker run -p 8080:8080 oec-server -->
