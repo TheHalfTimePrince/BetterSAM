@@ -41,7 +41,7 @@
           }
         };
   
-        mediaRecorder.start(100); // Collect data every 100ms
+        mediaRecorder.start(1000); // Collect data every 100ms
       } catch (error) {
         console.error("Error starting video stream:", error);
       }
